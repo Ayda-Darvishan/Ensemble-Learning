@@ -1,1 +1,2 @@
-# Ensemble-Learning--Bagging-Boosting-Stacking
+# Ensemble-Learning
+Bagging-Boosting-Stacking-Algorithms
